@@ -13,7 +13,8 @@ We need to understand the playtester feedback and the error alerts, and then mak
 6. Name: The highlighted line (10) is an argument. Purpose: It provides the value 10 to the PrintMessage method when PrintMessage is called in Start(), so PrintMessage uses this value as the x parameter.
 7. The error is that Transform.Translate(_direction) is called on the Transform class (static context), but Translate is an instance method.
 8. _playerTransform.Translate(_direction);
-
+#### Activity 3
+[MG1 breakdown Google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
    
 Hit enter TWICE to create a new line.
 
