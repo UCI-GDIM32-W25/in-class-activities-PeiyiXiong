@@ -2,7 +2,7 @@
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 ### W1 In-class Activity
-We need to understand the content of playtester and the error alerts, and then make the necessary code modifications according to the instructions.
+We need to understand the playtester feedback and the error alerts, and then make the necessary code changes based on the instructions. This helps us find bugs, fix mistakes in the code, and improve the overall gameplay experience.
 
 Hit enter TWICE to create a new line.
 
