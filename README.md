@@ -1,7 +1,8 @@
 # GDIM32 In Class Activities
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
-
+### W1 In-class Activity
+We need to understand the content of playtester and the error alerts, and then make the necessary code modifications according to the instructions.
 
 Hit enter TWICE to create a new line.
 
