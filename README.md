@@ -4,7 +4,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 ### W1 In-class Activity
 #### Activity 1
 We need to understand the playtester feedback and the error alerts, and then make the necessary code changes based on the instructions. This helps us find bugs, fix mistakes in the code, and improve the overall gameplay experience. By carefully reviewing what playtesters experienced, we can see which parts of the game are confusing or not working correctly. After making changes, we will test the game again to make sure the problems are fixed and the game feels better to play.
-### Activity 2
+#### Activity 2
 1. x=10
 2. x=2
 3. The Update() method calls PrintMessage(), the PrintMessage() method outputs the text "hello world".
