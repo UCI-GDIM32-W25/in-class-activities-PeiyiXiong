@@ -17,6 +17,7 @@ We need to understand the playtester feedback and the error alerts, and then mak
 ### Activity 1
 <img width="2360" height="1640" alt="IMG_1243" src="https://github.com/user-attachments/assets/1c4d7ca0-43a2-4344-b9ae-a946ba08bb18" />
 ### Activity 2
+
 [New commit for MG2](https://github.com/UCI-GDIM32-W25/mg2-PeiyiXiong/commit/e77ea4e54d3c889397ac9ed27665bbbed9db78d7)
 
 
