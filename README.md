@@ -1,6 +1,5 @@
 # GDIM32 In Class Activities
 ## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 ### W1 In-class Activity
 #### Activity 1
 We need to understand the playtester feedback and the error alerts, and then make the necessary code changes based on the instructions. This helps us find bugs, fix mistakes in the code, and improve the overall gameplay experience. By carefully reviewing what playtesters experienced, we can see which parts of the game are confusing or not working correctly. After making changes, we will test the game again to make sure the problems are fixed and the game feels better to play.
@@ -15,12 +14,6 @@ We need to understand the playtester feedback and the error alerts, and then mak
 8. _playerTransform.Translate(_direction);
 #### Activity 3
 [MG1 breakdown Google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
-   
-Hit enter TWICE to create a new line.
+### W2 In-class Activity
 
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
