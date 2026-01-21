@@ -13,6 +13,8 @@ We need to understand the playtester feedback and the error alerts, and then mak
 8. _playerTransform.Translate(_direction);
 ### Activity 3
 [MG1 breakdown Google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
+
+
 ## W2 In-class Activity
 ### Activity 1
 <img width="2360" height="1640" alt="IMG_1243" src="https://github.com/user-attachments/assets/1c4d7ca0-43a2-4344-b9ae-a946ba08bb18" />
@@ -21,6 +23,12 @@ We need to understand the playtester feedback and the error alerts, and then mak
 
 [New commit for MG2](https://github.com/UCI-GDIM32-W25/mg2-PeiyiXiong/commit/e77ea4e54d3c889397ac9ed27665bbbed9db78d7)
 
+
 ## W3 In-class Activity
+### Activity 0-2
+partner name：Yuxin Ding
+### Activity 3
+<img width="2360" height="1640" alt="IMG_1249" src="https://github.com/user-attachments/assets/543aaa21-81b6-4f00-908e-ead769e95851" />
+
 
 
