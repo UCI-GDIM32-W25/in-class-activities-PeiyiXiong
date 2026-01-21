@@ -21,4 +21,6 @@ We need to understand the playtester feedback and the error alerts, and then mak
 
 [New commit for MG2](https://github.com/UCI-GDIM32-W25/mg2-PeiyiXiong/commit/e77ea4e54d3c889397ac9ed27665bbbed9db78d7)
 
+## W3 In-class Activity
+
 
