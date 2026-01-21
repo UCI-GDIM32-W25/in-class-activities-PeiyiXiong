@@ -23,7 +23,9 @@ We need to understand the playtester feedback and the error alerts, and then mak
 
 ## W3 In-class Activity
 ### Activity 0-2
-name：
+partner name：Yuxin Ding
 ### Activity 3
+<img width="2360" height="1640" alt="IMG_1249" src="https://github.com/user-attachments/assets/543aaa21-81b6-4f00-908e-ead769e95851" />
+
 
 
