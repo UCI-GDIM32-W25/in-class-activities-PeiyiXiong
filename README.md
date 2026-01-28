@@ -32,7 +32,9 @@ partner name：Yuxin Ding
 
 ## W4 In-class Activity
 ### Activity 0
-Buddy's name：
+Buddy's name： Jingyi Bi
+### Activity 1
+I added multiple Locators, when I ran the game and pressed the space bar, only one Locator would remain while the others would be destroyed.
 
 
 
