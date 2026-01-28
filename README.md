@@ -39,7 +39,6 @@ I added multiple Locators, when I ran the game and pressed the space bar, only o
 ![IMG_1250](https://github.com/user-attachments/assets/079ab1ae-c209-4179-b2b3-1b638c5f352e)
 ### Activity 3
 [New commit for MG4](https://github.com/PeiyiXiong/HW4/branches)
-
-
+I successfully received hw4, then I downloaded the pictures of the birds and the pipes, and I sliced them. I changed the background size to be vertical. I created a new ground and added a component to this ground.
 
 
