@@ -34,7 +34,7 @@ partner name：Yuxin Ding
 ### Activity 0
 Buddy's name： Jingyi Bi
 ### Activity 1
-I added multiple Locators, when I ran the game and pressed the space bar, only one Locator would remain while the others would be destroyed.
+I added multiple Locators, when I ran the game and pressed the space bar, only one Locator would remain while the others would be destroyed. Because Locator class implements the Singleton design pattern.
 
 
 
