@@ -37,6 +37,8 @@ Buddy's name： Jingyi Bi
 I added multiple Locators, when I ran the game and pressed the space bar, only one Locator would remain while the others would be destroyed. Because Locator class implements the Singleton design pattern.
 ### Activity 2
 ![IMG_1250](https://github.com/user-attachments/assets/079ab1ae-c209-4179-b2b3-1b638c5f352e)
+### Activity 3
+[New commit for MG4](https://github.com/PeiyiXiong/HW4/branches)
 
 
 
