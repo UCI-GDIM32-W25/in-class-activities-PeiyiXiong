@@ -52,6 +52,8 @@ I would keep the basic structure (the abstract Item class and the IBreakable int
 - To avoid repeating code in Axe and Torch, add a BreakableItem base class that includes shared durability and state logic.
 - For inventory and UI integration, give the Item class shared properties like name and ID.
 - To make it work with other systems (like automatically taking broken items out of the inventory), add an OnItemBroken event to the IBreakable interface.
+
+  
 These changes fix problems with duplicate code and add useful features for real-world projects, all while keeping the best parts of the original design. You don't need to change the basic relationships between inheritance and interfaces.
 
 
