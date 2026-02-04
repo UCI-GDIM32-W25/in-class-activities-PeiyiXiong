@@ -42,4 +42,48 @@ I added multiple Locators, when I ran the game and pressed the space bar, only o
 
 I successfully received hw4, then I downloaded the pictures of the birds and the pipes, and I sliced them. I changed the background size to be vertical. I created a new ground and added a component to this ground.
 
+## W5 In-class Activity
+### Activity 1
+#### 1. What do you think of the design of these interfaces and abstract classes?
+The design makes sense and follows the basic rules of object-oriented programming. For example, all items must follow the Use() contract that the abstract Item class has. This makes sure that they all work the same way. The IBreakable interface, on the other hand, separates the break and damage functions that not all items need. This separation makes sure that only the right items use breakable logic, and all items follow the same Use() rule. This is a clear and adaptable base for a simple item system. It doesn't add any extra ways to break items that can't break, like ElvenSword. This is in line with the principle of interface segregation.
+
+#### 2. Would you keep it the same, or change it, if you were building a project with items like these?   
+I would keep the basic structure (the abstract Item class and the IBreakable interface), but I would make small, useful changes for use in production:
+- To avoid repeating code in Axe and Torch, add a BreakableItem base class that includes shared durability and state logic.
+- For inventory and UI integration, give the Item class shared properties like name and ID.
+- To make it work with other systems (like automatically taking broken items out of the inventory), add an OnItemBroken event to the IBreakable interface.
+
+  
+These changes fix problems with duplicate code and add useful features for real-world projects, all while keeping the best parts of the original design. You don't need to change the basic relationships between inheritance and interfaces.
+
+### Activity 2
+- Model: EnemyStats, ItemW5Demo2
+- View: DialogueBubble, InventoryUI, SpriteRenderer (in PlayerW5Demo2/EnemyW5Demo2)
+- Controller: PlayerW5Demo2 (movement/input logic), EnemyW5Demo2
+
+### Activity 3
+#### Scenario 1: Rhythm Game
+Inheritance with Polymorphism + Basic Parent/Abstract Class/Interface + ScriptableObjects
+- Create abstract `Beat` class/`IBeat` interface, define core properties: key, screen location, timing. Abstract `Spawn()/CheckHit()` methods.
+- Polymorphic child classes (like `TapBeat`, `HoldBeat`, `SlideBeat`) override abstract methods for unique behavior.
+- You can use ScriptableObjects to save data for each beat (timing, key, position) that can be changed in Unity without having to change any code.
+  
+#### Scenario 2: Team Shooter
+Inheritance with Polymorphism + Basic Parent/Abstract Class/Interface + MVC with C# Events
+- Base abstract `ShooterCharacter` class (inherits from MonoBehaviour; shared: health, mesh, basic movement/animation logic; abstract like `PrimaryAttack()/SecondaryAttack()/Ultimate()`).
+- Polymorphic child classes (per character) override abstract attack methods for unique abilities. Implement movement modes via custom interface (like `IMovable` for sprint/air dash).
+- MVC: Controller (character input/logic)-> Model (health/ability state)-> View (animations/meshes). C# events for attack/health change to trigger View/feedback.
+
+#### Scenario 3: Farming Simulation
+Inheritance with Polymorphism + Basic Parent/Abstract Class/Interface + ScriptableObjects + Finite State Machine with Enums
+- Abstract `FarmObject` class/`IFarmInteractable` interface shared: position; abstract `Interact()/Grow()/Destroy()`; polymorphic children `Seed`, `GrowablePlant`, `Rock`.
+- ScriptableObjects store farm object data growth time, harvest yield, interact rewards, easy editing of plant/rock properties.
+- Player FSM enum: `Idle`, `Planting`, `Harvesting`, `BreakingRock` to manage state-specific animations/actions; FSM controls which interaction/animation triggers on input.
+
+### Activity 4
+Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan (She has asked the professor for leave and attended half of today's class.)
+
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1xBZf-TNesHDRlNGUnQIIlStqfWb3MOsQMGyXhkQuQ5s/edit?tab=t.0#heading=h.59jtu6yosw9c)
+
+  
 
