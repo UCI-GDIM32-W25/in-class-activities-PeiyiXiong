@@ -42,4 +42,16 @@ I added multiple Locators, when I ran the game and pressed the space bar, only o
 
 I successfully received hw4, then I downloaded the pictures of the birds and the pipes, and I sliced them. I changed the background size to be vertical. I created a new ground and added a component to this ground.
 
+## W5 In-class Activity
+### Activity 1
+#### 1. What do you think of the design of these interfaces and abstract classes?
+The design makes sense and follows the basic rules of object-oriented programming. For example, all items must follow the Use() contract that the abstract Item class has. This makes sure that they all work the same way. The IBreakable interface, on the other hand, separates the break and damage functions that not all items need. This separation makes sure that only the right items use breakable logic, and all items follow the same Use() rule. This is a clear and adaptable base for a simple item system. It doesn't add any extra ways to break items that can't break, like ElvenSword. This is in line with the principle of interface segregation.
+
+#### 2. Would you keep it the same, or change it, if you were building a project with items like these?   
+I would keep the basic structure (the abstract Item class and the IBreakable interface), but I would make small, useful changes for use in production:
+- To avoid repeating code in Axe and Torch, add a BreakableItem base class that includes shared durability and state logic.
+- For inventory and UI integration, give the Item class shared properties like name and ID.
+- To make it work with other systems (like automatically taking broken items out of the inventory), add an OnItemBroken event to the IBreakable interface.
+- These changes fix problems with duplicate code and add useful features for real-world projects, all while keeping the best parts of the original design. You don't need to change the basic relationships between inheritance and interfaces.
+
 
