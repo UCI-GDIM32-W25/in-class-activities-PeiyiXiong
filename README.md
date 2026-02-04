@@ -56,4 +56,34 @@ I would keep the basic structure (the abstract Item class and the IBreakable int
   
 These changes fix problems with duplicate code and add useful features for real-world projects, all while keeping the best parts of the original design. You don't need to change the basic relationships between inheritance and interfaces.
 
+### Activity 2
+- Model: EnemyStats, ItemW5Demo2
+- View: DialogueBubble, InventoryUI, SpriteRenderer (in PlayerW5Demo2/EnemyW5Demo2)
+- Controller: PlayerW5Demo2 (movement/input logic), EnemyW5Demo2
+
+### Activity 3
+#### Scenario 1: Rhythm Game
+Inheritance with Polymorphism + Basic Parent/Abstract Class/Interface + ScriptableObjects
+- Create abstract `Beat` class/`IBeat` interface, define core properties: key, screen location, timing. Abstract `Spawn()/CheckHit()` methods.
+- Polymorphic child classes (like `TapBeat`, `HoldBeat`, `SlideBeat`) override abstract methods for unique behavior.
+- You can use ScriptableObjects to save data for each beat (timing, key, position) that can be changed in Unity without having to change any code.
+  
+#### Scenario 2: Team Shooter
+Inheritance with Polymorphism + Basic Parent/Abstract Class/Interface + MVC with C# Events
+- Base abstract `ShooterCharacter` class (inherits from MonoBehaviour; shared: health, mesh, basic movement/animation logic; abstract like `PrimaryAttack()/SecondaryAttack()/Ultimate()`).
+- Polymorphic child classes (per character) override abstract attack methods for unique abilities. Implement movement modes via custom interface (like `IMovable` for sprint/air dash).
+- MVC: Controller (character input/logic)-> Model (health/ability state)-> View (animations/meshes). C# events for attack/health change to trigger View/feedback.
+
+#### Scenario 3: Farming Simulation
+Inheritance with Polymorphism + Basic Parent/Abstract Class/Interface + ScriptableObjects + Finite State Machine with Enums
+- Abstract `FarmObject` class/`IFarmInteractable` interface shared: position; abstract `Interact()/Grow()/Destroy()`; polymorphic children `Seed`, `GrowablePlant`, `Rock`.
+- ScriptableObjects store farm object data growth time, harvest yield, interact rewards, easy editing of plant/rock properties.
+- Player FSM enum: `Idle`, `Planting`, `Harvesting`, `BreakingRock` to manage state-specific animations/actions; FSM controls which interaction/animation triggers on input.
+
+### Activity 4
+Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan (She has asked the professor for leave and attended half of today's class.)
+
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1xBZf-TNesHDRlNGUnQIIlStqfWb3MOsQMGyXhkQuQ5s/edit?tab=t.0#heading=h.59jtu6yosw9c)
+
+  
 
