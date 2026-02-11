@@ -94,4 +94,4 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 
 ### Activity 2
 Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
-
+Proposal: [Final Project Proposal Draft](https://docs.google.com/document/d/1xBZf-TNesHDRlNGUnQIIlStqfWb3MOsQMGyXhkQuQ5s/edit?tab=t.0#heading=h.59jtu6yosw9c)
