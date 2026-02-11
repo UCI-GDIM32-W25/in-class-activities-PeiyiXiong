@@ -88,5 +88,5 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 ## W6 In-class Activity
 ### Activity 1
 - Unity Profiler: It can help me solve the problem of game lag. With Profiler, I can directly identify the cause of the lag, ensuring that the project runs smoothly.
-- Gizmos: 
+- Gizmos: I can use Gizmos to draw the delivery route for takeout orders. Also, with Gizmos, I can directly mark the location of the customer's home within the scene. I can also use it to draw the interaction area, such as the interaction trigger zone for the restaurant owner. Player must approach to click "I/E". By drawing a circle with Gizmos, it will be clear how close one needs to be to trigger the action.
 
