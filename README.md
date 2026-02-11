@@ -85,5 +85,8 @@ Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan (She has asked the professor for
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1xBZf-TNesHDRlNGUnQIIlStqfWb3MOsQMGyXhkQuQ5s/edit?tab=t.0#heading=h.59jtu6yosw9c)
 
-  
+## W6 In-class Activity
+### Activity 1
+- Unity Profiler: It can solve the problem of game lag. With Profiler, I can directly identify the cause of the lag, ensuring that the project runs smoothly.
+- Gizmos: 
 
