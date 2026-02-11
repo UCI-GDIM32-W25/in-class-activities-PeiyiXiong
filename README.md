@@ -92,3 +92,6 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 - Breakpoints: It can help me precisely identify code errors.
 - Merging: When multiple team members are changing the scene, it will help us not disrupt each other's work.
 
+### Activity 2
+Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
+
