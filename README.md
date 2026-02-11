@@ -87,6 +87,6 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 
 ## W6 In-class Activity
 ### Activity 1
-- Unity Profiler: It can solve the problem of game lag. With Profiler, I can directly identify the cause of the lag, ensuring that the project runs smoothly.
+- Unity Profiler: It can help me solve the problem of game lag. With Profiler, I can directly identify the cause of the lag, ensuring that the project runs smoothly.
 - Gizmos: 
 
