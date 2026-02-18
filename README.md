@@ -112,3 +112,7 @@ Attendance: Peiyi Xiong, Ruixuan Pan
 ### Activity 4
 [Our Trello board](https://trello.com/invite/b/69951d1a0edbf2c293079f02/ATTI537c160452fd7b359b83d6330a1e7824CD610CE3/my-trello-board)
 
+### Activity 5
+[New commit](https://github.com/lindenreid/GDIM32-Final/compare/main...ruixuanp1122:GDIM32-Final:main)
+I accept the project from my teammate. I write the player.cs and the NPCbase.cs, and I download some resource of 3D house.
+
