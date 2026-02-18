@@ -114,5 +114,6 @@ Attendance: Peiyi Xiong, Ruixuan Pan
 
 ### Activity 5
 [New commit](https://github.com/lindenreid/GDIM32-Final/compare/main...ruixuanp1122:GDIM32-Final:main)
+
 I accept the project from my teammate. I write the player.cs and the NPCbase.cs, and I download some resource of 3D house.
 
