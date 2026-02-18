@@ -100,6 +100,7 @@ Proposal: [Final Project Proposal Draft](https://docs.google.com/document/d/1xBZ
 
 ## W7 In-class Activity
 ### Activity 1
+Note: I control the chick using the WASD keys, the chick can move forward, backward, left, and right. When the chick approaches the duck, the duck will follow the chick until the chick moves away from the duck or hides behind an obstacle (when the duck cannot see the chick).
 ### Activity 2
 Attendance: Peiyi Xiong, Ruixuan Pan
 
