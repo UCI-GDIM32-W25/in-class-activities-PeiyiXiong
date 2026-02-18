@@ -106,3 +106,9 @@ From the script of duck, I learn that make a simple state machine with two state
 ### Activity 2
 Attendance: Peiyi Xiong, Ruixuan Pan
 
+### Activity 3
+<img width="2360" height="1640" alt="未命名作品" src="https://github.com/user-attachments/assets/3d75dc7a-0024-459f-85e8-97d419470045" />
+
+### Activity 4
+[Our Trello board](https://trello.com/invite/b/69951d1a0edbf2c293079f02/ATTI537c160452fd7b359b83d6330a1e7824CD610CE3/my-trello-board)
+
