@@ -125,3 +125,14 @@ Note: This scene is rather hazy and dreamlike, just like having a filter applied
 Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 
 ### Activity 3
+Playtest note: 
+
+Our buddy team: Zoo
+
+
+### Activity 4
+
+### Activity 5
+
+
+
