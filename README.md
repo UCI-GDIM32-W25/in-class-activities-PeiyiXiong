@@ -127,9 +127,11 @@ Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 ### Activity 3
 Playtest note: 
 
+
+The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
+
+
 Our buddy team: Zoo
-
-
 ### Activity 4
 
 ### Activity 5
