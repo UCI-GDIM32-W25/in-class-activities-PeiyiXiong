@@ -137,5 +137,7 @@ Search for the source of the sound effect. Add sound effects（MVC）
 
 ### Activity 5
 
+[Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commits/main/)
 
+I collect all the audio, add sound effects, and our team solve the UI problem together.
 
