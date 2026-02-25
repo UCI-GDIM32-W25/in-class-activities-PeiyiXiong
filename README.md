@@ -119,7 +119,7 @@ I accept the project from my teammate. I write the player.cs and the NPCbase.cs,
 
 ## W8 In-class Activity
 ### Activity 1
-Note: This scene is rather hazy and dreamlike, just like having a filter applied to it. Then, during the movement of this duck, the environment will turn red.
+Note: This scene is rather hazy and dreamlike, just like having a filter applied to it. Then, during the movement of this duck, the environment will turn red. In class, I understand how to set up post-processing in built-in pipeline.
 
 ### Activity 2
 Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
@@ -127,12 +127,12 @@ Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 ### Activity 3
 Playtest note: 
 
-
-The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
-
+Buddy team feedback: The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
 
 Our buddy team: Zoo
+
 ### Activity 4
+
 
 ### Activity 5
 
