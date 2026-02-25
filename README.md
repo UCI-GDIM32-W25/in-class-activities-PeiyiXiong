@@ -133,6 +133,7 @@ Our buddy team: Zoo
 
 ### Activity 4
 
+Search for the source of the sound effect. Add sound effects（MVC）
 
 ### Activity 5
 
