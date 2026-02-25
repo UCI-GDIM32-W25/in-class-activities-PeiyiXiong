@@ -117,3 +117,11 @@ Attendance: Peiyi Xiong, Ruixuan Pan
 
 I accept the project from my teammate. I write the player.cs and the NPCbase.cs, and I download some resource of 3D house.
 
+## W8 In-class Activity
+### Activity 1
+Note: This scene is rather hazy and dreamlike, just like having a filter applied to it. Then, during the movement of this duck, the environment will turn red.
+
+### Activity 2
+Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
+
+### Activity 3
