@@ -143,6 +143,7 @@ I collect all the audio, add sound effects, and our team solve the UI problem to
 
 ## W9 In-class Activity
 ### Activity 1
+Note: 
 ### Activity 2
 Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 ### Activity 3
