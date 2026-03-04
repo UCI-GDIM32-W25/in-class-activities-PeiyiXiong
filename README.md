@@ -143,7 +143,9 @@ I collect all the audio, add sound effects, and our team solve the UI problem to
 
 ## W9 In-class Activity
 ### Activity 1
-Note: 
+
+Note: In the W9_Prelearning_Dialogue Unity scene, you can chat with a duck through two dialogue systems. Move close to it and press Space to hear its lines, then click UI buttons to reply. The first system is simple with only two fixed replies, and you need to write extra code to add more. The better one uses DialogueNode ScriptableObjects, which let you add new conversation paths easily without extra code. The DialogueUI controls the chat display, and the dialogue resets if you move away from the duck.
+
 ### Activity 2
 Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 ### Activity 3
