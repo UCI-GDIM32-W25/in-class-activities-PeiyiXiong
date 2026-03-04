@@ -141,3 +141,11 @@ Search for the source of the sound effect. Add sound effects（MVC）
 
 I collect all the audio, add sound effects, and our team solve the UI problem together.
 
+## W9 In-class Activity
+### Activity 1
+### Activity 2
+Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
+### Activity 3
+### Activity 4
+### Activity 5
+
