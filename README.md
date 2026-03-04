@@ -152,5 +152,9 @@ Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 Notes: The most important problem is that the camera angle shifts too abruptly, significantly affecting the gameplay experience. UI prompt for clicking the burger isn't clear, so players consistently miss the step of clicking the burger on the table. Similarly, the dialogue prompt for clicking the UI icon isn't clear, so players sometimes ignore it and skip the process. There aren't enough interactions with the items and NPCs. The Dialogue UI isn't so pretty; maybe we can add a mode to beautify it. The camera isn't in the proper position, so the player can't clearly catch the first NPC. 
 
 ### Activity 4
+Compared with our expectations, the progress of our project is rather slow. I think the main problem is that our division of labor is rather chaotic. For instance, we have two teammates who wrote the same code. We should have more detailed division of labor and time allocation.
+
 ### Activity 5
+[Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commits/main/)
+
 
