@@ -157,4 +157,6 @@ Compared with our expectations, the progress of our project is rather slow. I th
 ### Activity 5
 [Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commits/main/)
 
+I have modified the customerInteract.cs file and I improve the playmovement.cs.
+
 
