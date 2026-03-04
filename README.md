@@ -149,6 +149,8 @@ Note: In the W9_Prelearning_Dialogue Unity scene, you can chat with a duck throu
 ### Activity 2
 Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 ### Activity 3
+Notes: The most important problem is that the camera angle shifts too abruptly, significantly affecting the gameplay experience. UI prompt for clicking the burger isn't clear, so players consistently miss the step of clicking the burger on the table. Similarly, the dialogue prompt for clicking the UI icon isn't clear, so players sometimes ignore it and skip the process. There aren't enough interactions with the items and NPCs. The Dialogue UI isn't so pretty; maybe we can add a mode to beautify it. The camera isn't in the proper position, so the player can't clearly catch the first NPC. 
+
 ### Activity 4
 ### Activity 5
 
