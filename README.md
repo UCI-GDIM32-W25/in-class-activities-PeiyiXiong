@@ -164,5 +164,14 @@ I have modified the customerInteract.cs file and I improve the playmovement.cs.
 ### Activity 1
 Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
 ### Activity 2
+playtesting notes: The hamburger's UI isn't clear enough, so players often forget to click on the hamburger on the table. The dialog prompts to click on the UI icons are also not clear, so players sometimes skip this step. You don't interact with items and NPCs enough. The dialogue UI doesn't look good; maybe we could add a mode to make it look better. The conversation is pretty complete.
+
 ### Activity 3
+We're currently reworking the dialogue format for our Order Up! project, which is a crucial change that fits perfectly with our project scope of creating a flexible, expandable food delivery game. This change is intentional to build greater scalability into the project, ensuring that we can seamlessly add new features, expand NPC interactions, and integrate more content later on without overcomplicating the core framework.
+
 ### Activity 4
+
+[Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commits/main/)
+
+We have improved the UI, revised the dialogue, and refined the state machine.
+
