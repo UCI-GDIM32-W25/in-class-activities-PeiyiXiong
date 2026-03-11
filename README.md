@@ -160,3 +160,9 @@ Compared with our expectations, the progress of our project is rather slow. I th
 I have modified the customerInteract.cs file and I improve the playmovement.cs.
 
 
+## W10 In-class Activity
+### Activity 1
+Attendance: Peiyi Xiong, Jingyi Bi, Ruixuan Pan
+### Activity 2
+### Activity 3
+### Activity 4
